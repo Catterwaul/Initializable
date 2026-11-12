@@ -33,7 +33,7 @@ var modules: [Module] {
 
 extension String {
   enum LibraryName {
-    static let unsuffixed = "InitializableByAssigningToSelf"
+    static let unsuffixed = "Initializable"
     static func suffixed(_ suffix: String) -> String {
       "\(unsuffixed).\(suffix)"
     }

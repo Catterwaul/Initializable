@@ -1,7 +1,7 @@
-import InitializableByAssigningToSelf
+import Initializable
 import Testing
 
-struct Tests {
+struct InitializableByAssigningToSelf_Tests {
   @Test func `Assigns the instance to self`() {
     #expect(Cat() == .frisky)
   }

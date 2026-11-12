@@ -1,10 +1,10 @@
-# InitializableByAssigningToSelf
+# Initializable
 
-[Read the documentation here. 📖](https://catterwaul.github.io/InitializableByAssigningToSelf/documentation/initializablebyassigningtoself/) 
+[Read the documentation here. 📖](https://catterwaul.github.io/Initializable/documentation/initializable/) 
 
 ## Dependency 
 
-InitializableByAssigningToSelf is in the "Major Version Zero" phase, allowing for rapid development based on community feedback. 
+Initializable is in the "Major Version Zero" phase, allowing for rapid development based on community feedback. 
 
 Refer to [this semantic versioning reference](https://docs.swift.org/package-manager/PackageDescription/PackageDescription.html#version) for the following. 
 
